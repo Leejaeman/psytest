@@ -1,0 +1,13 @@
+.sample {
+    /* background: yellow; */
+    padding-left: 50px;
+}
+
+.word{
+    width: 700px;
+    text-align: right;
+}
+
+ul > li {
+    padding: 10px 10px 5px;
+}

@@ -1,0 +1,51 @@
+header{
+    background: url(../img/dyb.png) no-repeat;
+    width: 700px;
+    height: 60px;
+    margin-left: 600px;
+    background-position: 10px 10px;
+}
+
+.logo {
+    width: 200px;
+    height: 60px;
+}
+
+.logo a {
+    display: block;
+    width: 200px;
+    height: 60px;
+}
+
+footer {
+    background: url(../img/base.png) no-repeat;/* red;*/
+    height: 200px;
+    width: 800px;
+    margin: auto 10px;
+    padding: auto 0px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.problem{
+    margin: 20px 20px 0px;
+    height: 500px;
+    line-height: 15px;
+}
+
+.button_box{
+    padding-left: 580px;
+}
+
+#next_button {
+    width: 100px;
+    height: 50px;
+}
+
+br {
+    height: 5px;
+}
